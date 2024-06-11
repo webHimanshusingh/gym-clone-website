@@ -1,5 +1,8 @@
 # gym-website-using-html-css
 
+LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
+GitHub- https://github.com/webHimanshusingh<br>
+
 
 HTML Structure:<br>
 
@@ -20,3 +23,6 @@ Responsive Design: This example does not include responsive design features like
 Accessibility: Ensure proper accessibility by adding attributes like alt for images and using semantic HTML tags.<br>
 SEO: Use proper heading levels and meta descriptions for better SEO.<br>
 This is a basic example to get you started. You can expand it by adding more sections, improving styles, and making the layout responsive.<br>
+
+#output-1
+![Screenshot 2024-06-11 162748](https://github.com/webHimanshusingh/gym-clone-website/assets/170223793/47bf9d8f-bb57-4d95-b917-e61fa171a1a6)
