@@ -3,7 +3,7 @@
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
-
+# jion us
 HTML Structure:<br>
 
 DOCTYPE and Meta Tags: The <!DOCTYPE html> declaration defines this document to be HTML5. Meta tags provide metadata about the HTML document, such as character set and viewport settings.<br>
@@ -24,5 +24,5 @@ Accessibility: Ensure proper accessibility by adding attributes like alt for ima
 SEO: Use proper heading levels and meta descriptions for better SEO.<br>
 This is a basic example to get you started. You can expand it by adding more sections, improving styles, and making the layout responsive.<br>
 
-#output-1
+# output-1
 ![Screenshot 2024-06-11 162748](https://github.com/webHimanshusingh/gym-clone-website/assets/170223793/47bf9d8f-bb57-4d95-b917-e61fa171a1a6)
